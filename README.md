@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...app development and sketches
 - 📫 How to reach me ...kenkhamasi0@gmail.com 
 - 😄 Pronouns: ...lasty/mabao
-- ⚡ Fun fact: ...Internet can shrink the world
+- ⚡ Fun fact: ...Internet can shrink the world into a small village
 
 <!---
 Lasty1960/Lasty1960 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
